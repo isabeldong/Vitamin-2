@@ -1,7 +1,37 @@
-body {
-    background-color: lightgray;
+html {
+    font-family: "Comic Sans MS", "Comic Sans", Arial, sans-serif;
 }
 
-/* html {
-    font-family: "Comic Sans MS", "Comic Sans", "Arial", "sans-serif";
-} */
+h1, h2 {
+  font-family: "Papyrus";
+  color: purple;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background-color: gray;
+    text-align: center;
+}
+
+ul li {
+    display: inline-block;
+    margin: 0;
+    padding: 16px;
+}
+
+ul li a {
+    color: black;
+}
+
+ul li:hover {
+    background-color: #AAA;
+}
+
+footer {
+    padding: 16px;
+    background-color: #DDD;
+    color: #555;
+    text-align: center;
+}
