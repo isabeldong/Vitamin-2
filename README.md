@@ -1,2 +1,2 @@
 # Vitamin-2
-Vitamin 2: HTML and CSS
+CS 198-99 Vitamin 2: HTML and CSS
